@@ -2,6 +2,7 @@
 
 <div dir="ltr">
 
+bash -c "$(curl -L https://raw.githubusercontent.com/nickname1024/hiddify-relay/main/install.sh)"
 
 
 [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](README_fa.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
