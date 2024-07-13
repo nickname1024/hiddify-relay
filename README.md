@@ -3,6 +3,13 @@
 <div dir="ltr">
 
 
+
+
+
+
+
+
+
 ```
 bash -c "$(curl -L https://raw.githubusercontent.com/nickname1024/hiddify-relay/main/install.sh)"
 ```
@@ -12,7 +19,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/nickname1024/hiddify-relay/
 
  
 
-![Hiddify Logo](https://user-images.githubusercontent.com/125398461/227777845-a4d0f86b-faa2-4f2b-a410-4aa5f68bfe19.png)
+
 
 </div>
 
