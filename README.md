@@ -1,9 +1,13 @@
 <base target="_blank">
 
 <div dir="ltr">
-"""
+
+
+```
 bash -c "$(curl -L https://raw.githubusercontent.com/nickname1024/hiddify-relay/main/install.sh)"
-"""
+```
+
+
 
 
  
